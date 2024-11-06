@@ -43,3 +43,7 @@ The original 13 columns.
 product_id: Unique identifier for each product.
 product_description: A brief description generated from product_link.
 price_range: Categorized price range.
+
+# Contributing
+
+**Contributions are welcome! If you have ideas for enhancements or spot any issues, feel free to submit a pull request.**
